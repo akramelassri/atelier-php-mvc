@@ -4,4 +4,4 @@
 
 **Réalisé par**: Akram EL ASSRI
 
-Ce tp a pour but de faire le **refactoring** d'une *code base* monobloc à une MVC tout en explorant les benefits que cette architecture provient.
+Ce tp a pour but de faire le **refactoring** d'une *code base* monobloc à une MVC tout en explorant les avantagess que cette architecture provient.
